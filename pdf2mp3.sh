@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# Script qui converti un pdf passé en paramètre en plusieurs fichiers audio wav
+# Script qui converti un pdf passé en paramètre en plusieurs fichiers audio mp3
 # Nécessite les application pdftotext, wc, gspeech (pico2wave), soundconverter
 # Paramètre :   -t  --> Passe un fichier txt et non pdf en entrée
 # Remarque on peut OCRésié le PDF via la commande
